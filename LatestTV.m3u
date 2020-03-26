@@ -40,8 +40,7 @@ https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8|
 # Link placeholder
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
-https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master_4.m3u8
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master04.m3u8
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
@@ -75,3 +74,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-group="Kids" tvg-logo="https://www.stickpng.com/assets/thumbs/5ab111057603fc558cffc0e3.png",Larva TV
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585235786/ei/6nJ8XrnNFqjU3LUP1oWzsAQ/ip/209.58.170.161/id/ZY5oov1_jbo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-npoeenez.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/8650/mh/4V/mm/44/mn/sn-npoeenez/ms/lva/mv/m/mvi/3/pl/26/dover/11/keepalive/yes/mt/1585214119/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRgIhAKxGclYgzxBhNiB-TQG5mg8PbmBlLmXqdh1bYlS9H85AAiEAgmLRLh-wCtNWqtAjLMM9JTuDQwuWXDit__dRdLlg14o%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIgEIA17MCCa22hLEN1JHzPrteA4Qnkc_7xp8JJpzC6Nk4CIQDjplesg_GkxlxMGZcz5oQGp_u0-T2YlsHJjGO3yd7edw%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://www.insidehighered.com/sites/default/server_files/media/sample-4_1.png",Covid-19
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585249299/ei/s6d8XqmaNaLg4-EP6OiU0A0/ip/2402:1980:82a4:9bd:312f:f7de:fab9:537d/id/qgylp3Td1Bw.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r6---sn-qpbp-30a6.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/950/mh/2O/mm/44/mn/sn-qpbp-30a6/ms/lva/mv/m/mvi/5/pl/33/dover/11/keepalive/yes/mt/1585227622/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRAIgZ4GqmFiomfSflssONvLsxJbNSsk_tTS8omFC0h5HgS4CIGQecc7GDAiHuN1TLY9OhE92xk9vT1ojTur1sgcaZqzv/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIhAO5E9KvWnR3xjNho1yn7l0jY8fDkq78dPBazdistefM0AiAjDTUMb2P8YabhP_UOtqFMfPW8xIcFrVZkkpUikyJuAw%3D%3D/playlist/index.m3u8
