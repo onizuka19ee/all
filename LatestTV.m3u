@@ -74,3 +74,6 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-group="Kids" tvg-logo="https://www.stickpng.com/assets/thumbs/5ab111057603fc558cffc0e3.png",Larva TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585203675/ei/e_V7XoaEBZWS3LUP-ZiE6Ag/ip/2402%3A1980%3A82a4%3A9bd%3A2d01%3A2a14%3Aec1b%3A3093/id/ZY5oov1_jbo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23882514/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/ADKhkGMwRgIhAO4314MEjUwK3ZwK29_amKY505a585geWtRgzi5LmGFvAiEAwjlkU6AaHgsfebtc5XzkrUr8X-qEr0teFgSGcdGNYMA%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/trtworld.png",TRT World
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
