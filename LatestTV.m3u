@@ -27,6 +27,9 @@ https://rtmokey.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
 https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b1064000.m3u8|Referer=https://myklik.rtm.gov.my
 
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bernama.png",BERNAMA
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585236119/ei/N3R8XtXACvmSz7sPiby4qAo/ip/209.58.170.161/id/Bh5dqmsu2bA.0/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r3---sn-npoeen7y.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/6650/mh/X_/mm/44/mn/sn-npoeen7y/ms/lva/mv/m/mvi/2/pl/26/dover/11/keepalive/yes/mt/1585214416/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRQIgHLijarZECx-m2yYQV-b8CEyZ_PzRWQqbBCm9hGK3QNcCIQCmDqlfXbJcB6HggrM3T7B-6Ey7AE9cr-SzocqowieVfA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIhAJfXjh0fsHz3bvXGVFm75H4K3-XvsVqe-hWxABUdKTWvAiA2izKykVtbHfHCCyBQoIzuPjZger0M8YUcIDBqc8XVog%3D%3D/playlist/index.m3u8
+
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream02/streamPlaylist.m3u8
 
@@ -54,6 +57,9 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham 
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 
+#EXTINF:-1 tvg-group="ID" tvg-logo="http://www.netmedia.co.id/desktop/images/logo.png",NET
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585235869/ei/PXN8XuzsLezZ3LUP7qCGkAo/ip/209.58.170.161/id/JKQzLbfh7SM.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r2---sn-npoeenle.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6560/mh/gQ/mm/44/mn/sn-npoeenle/ms/lva/mv/m/mvi/1/pl/26/dover/11/keepalive/yes/mt/1585214179/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AJpPlLswRAIgIp9uVQdrUty7x5TAClTFrKPmDkknBis_cnxuHORPgPcCIGpfd17mwWKoqOFYmR4yd_DViiAiJ_znLEuWaq4rIT6y/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIgRoUKAEhfiYHD3sjytAg44WL8oPkaAtmtm4U7ILUV5TACIQCD3LX8OQuvKDRz4lvEBosF0c9Fxkhs7uxFauoTebrbZg%3D%3D/playlist/index.m3u8
+
 #EXTINF:-1 tvg-group="ID" tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png",Kompas TV
 https://stream-01.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G3nTiA_tOcnbgIfK8fofl5I)/dm/3/x6pz4sa/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k4ttBi7hCXzpArrvk82
 
@@ -65,3 +71,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/aljazeera.png",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 tvg-group="Kids" tvg-logo="https://www.stickpng.com/assets/thumbs/5ab111057603fc558cffc0e3.png",Larva TV
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585235786/ei/6nJ8XrnNFqjU3LUP1oWzsAQ/ip/209.58.170.161/id/ZY5oov1_jbo.2/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/r4---sn-npoeenez.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/8650/mh/4V/mm/44/mn/sn-npoeenez/ms/lva/mv/m/mvi/3/pl/26/dover/11/keepalive/yes/mt/1585214119/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRgIhAKxGclYgzxBhNiB-TQG5mg8PbmBlLmXqdh1bYlS9H85AAiEAgmLRLh-wCtNWqtAjLMM9JTuDQwuWXDit__dRdLlg14o%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRQIgEIA17MCCa22hLEN1JHzPrteA4Qnkc_7xp8JJpzC6Nk4CIQDjplesg_GkxlxMGZcz5oQGp_u0-T2YlsHJjGO3yd7edw%3D%3D/playlist/index.m3u8
