@@ -83,3 +83,5 @@ https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585307095/ei/
 
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://assets.hotfm.com.my/2017/11/logo_hotfm_1024x1024.png",Hot FM
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1585253776/ei/MLl8Xub1M4GAssUPo8Wp8A0/ip/2402:1980:82a4:9bd:a0ac:b176:b319:d1ce/id/1cz4kd4l4Cg.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-qpbp-30ad.googlevideo.com/vprv/1/playlist_type/DVR/initcwndbps/880/mh/9H/mm/44/mn/sn-qpbp-30ad/ms/lva/mv/m/mvi/0/pl/33/dover/11/keepalive/yes/mt/1585232065/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,vprv,playlist_type/sig/AJpPlLswRAIgQMHgty-Iip8NmW78SAvv8BeuEbrmWjz-VNM_b2d1TdwCICMdl1S95xROeL4p8NjaUc9uDF--5z_1Ub5Kge5KXrYf/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ALrAebAwRgIhAMrHE8QfI6inDhQdYPN9828Qh-si8bLsjMdePmBFZsEtAiEA6jl6KlIvR2v98S8ryDaweeL1frNXKzOrH2yxc8wsT0g%3D/playlist/index.m3u8
+
+https://tglmp02.akamaized.net/out/v1/f091238359f8455f8396cef639d0d9f7/master_4.m3u8
