@@ -56,3 +56,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream02/st
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://i.imgur.com/gHCOcuF.png",Cinemaworld
+http://210.210.155.35/uq2663/h/h04/01.m3u8
