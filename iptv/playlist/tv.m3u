@@ -57,4 +57,5 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream02/st
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png",Radio Era 
 https://astro2.rastream.com/era.web.hls/playlist.m3u8?listeningSessionID=5e541b11e99b7bd1_3098683_8tzvj2L4_MTAzLjIxLjgxLjk6ODA!_0000008jBz0&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Bstationid%3Aera&playerid=ERA%20Web%20Player_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE1ODU2Njg3OTgsImV4cCI6MTU4NTc1NTE5OH0.lF2uojQ487jbtCT7lwVKWLPtO5KBmV4gi2_dz3zNRUs&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=9cb1765216da4ea8d1cdc53b08c4bf4b
