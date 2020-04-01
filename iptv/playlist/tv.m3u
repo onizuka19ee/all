@@ -66,5 +66,17 @@ http://laylio.radioactive.sg/mediaprima-koolfm
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/B9BfFNENkj.jpg" radio="true",Hitz FM
 http://astro1.rastream.com/hitz
 
-#EXTINF:-1 tvg-group="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/B9BfFNENkj.jpg" radio="true",Sinar FM
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/sinar-fm.jpg" radio="true",Sinar FM
 http://astro2.rastream.com/sinar
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png" radio="true",BEST FM
+http://s8.voscast.com:8686/;
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FA_Suria_Logo_square-01.png/514px-FA_Suria_Logo_square-01.png" radio="true",Suria FM
+http://starrfm.rastream.com/starrfm-suria
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/c9/9c/c99cf8a4-bef2-417e-882d-4593016f4065.png" radio="true",THR Gegar
+http://astro3.rastream.com/gegar
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1200px-Logo_Fly_FM.svg.png" radio="true",Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm
