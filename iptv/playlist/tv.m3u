@@ -54,6 +54,10 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
+http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
+
+http://50.7.73.90:8278/Ria/playlist.m3u8?tid=13033076&tsum=9aa268b6eb65af706983848821e9acb2
+
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" radio="true",ERA 
 http://astro2.rastream.com/era
 
@@ -81,4 +85,3 @@ http://astro3.rastream.com/gegar
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1200px-Logo_Fly_FM.svg.png" radio="true",Fly FM
 http://mediaprima.rastream.com/mediaprima-flyfm
 
-http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
