@@ -1,0 +1,89 @@
+#EXTM3U
+  
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
+https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVbJTtIZjvpvppThVbbuuic)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3d2uyFzuRZmacZnlACI0I)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS-ZY2rgfbcfKcMT5iAJBJw)/dm/3/x6qud17/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png",TV9
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTKmXPgWC3P5E1hyXI5fm-M)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png",Drama Sangat
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qr6ta2f-rbg9wVtBWU2mIU)/dm/3/x6zvnex/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
+https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tvalhijrah.png",TV Alhijrah
+http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Alhijrah/playlist.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png",Suria 
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham 
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
+https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
+
+http://50.7.73.90:8278/Ria/playlist.m3u8?tid=13033076&tsum=9aa268b6eb65af706983848821e9acb2
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" radio="true",ERA 
+http://astro2.rastream.com/era
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://cdn-radiotime-logos.tunein.com/s54689q.png" radio="true",Hot FM
+http://mediaprima.rastream.com/mediaprima-hotfm
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://assets.koolfm.com.my/2020/01/logo_koolfm_600x600.png" radio="true",Kool FM
+http://laylio.radioactive.sg/mediaprima-koolfm
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/B9BfFNENkj.jpg" radio="true",Hitz FM
+http://astro1.rastream.com/hitz
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2011/06/sinar-fm.jpg" radio="true",Sinar FM
+http://astro2.rastream.com/sinar
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://bestfm.com.my/wp-content/uploads/2020/02/bestfm_headerlogo_retina.png" radio="true",BEST FM
+http://s8.voscast.com:8686/;
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FA_Suria_Logo_square-01.png/514px-FA_Suria_Logo_square-01.png" radio="true",Suria FM
+http://starrfm.rastream.com/starrfm-suria
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/c9/9c/c99cf8a4-bef2-417e-882d-4593016f4065.png" radio="true",THR Gegar
+http://astro3.rastream.com/gegar
+
+#EXTINF:-1 tvg-group="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1200px-Logo_Fly_FM.svg.png" radio="true",Fly FM
+http://mediaprima.rastream.com/mediaprima-flyfm
+
