@@ -33,7 +33,7 @@ http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Alhijr
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
-https://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index_5.m3u8
+http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
