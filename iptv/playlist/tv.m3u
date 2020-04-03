@@ -33,8 +33,6 @@ http://185.216.119.144:9910/smarttv.php?playurl=http://212.8.243.195:8278/Alhijr
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
-http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602
-
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
 
@@ -55,10 +53,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
-http://portal.layar3.com:8888/live/pf4Ic6vRO1/SXIG8NYnqM/13543.m3u8
-
-http://50.7.73.90:8278/Ria/playlist.m3u8?tid=13033076&tsum=9aa268b6eb65af706983848821e9acb2
 
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/856_300.png" radio="true",ERA 
 http://astro2.rastream.com/era
@@ -86,4 +80,3 @@ http://astro3.rastream.com/gegar
 
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Logo_Fly_FM.svg/1200px-Logo_Fly_FM.svg.png" radio="true",Fly FM
 http://mediaprima.rastream.com/mediaprima-flyfm
-
