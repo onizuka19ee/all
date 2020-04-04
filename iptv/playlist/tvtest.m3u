@@ -6,6 +6,8 @@ https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586071458~acl=%2f*~data=hdntl~hmac=d6ab71d2167211aebb15ea67987927254946bfa78e742f92e3b010d77e4dcff0/master_3500.m3u8
 
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1586071731~acl=%2f*~data=hdntl~hmac=9d6b6cca22a3d9c34dfcd45763d78bea449b31972bf6eb77f8df2c8b251217d3/master_3500.m3u8
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
