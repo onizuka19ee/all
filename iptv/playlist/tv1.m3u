@@ -1,0 +1,71 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",TV1
+https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",BBC Earth
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586071458~acl=%2f*~data=hdntl~hmac=d6ab71d2167211aebb15ea67987927254946bfa78e742f92e3b010d77e4dcff0/master_3500.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",AXN
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1586071731~acl=%2f*~data=hdntl~hmac=9d6b6cca22a3d9c34dfcd45763d78bea449b31972bf6eb77f8df2c8b251217d3/master_3500.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",Sony PIX
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1586072127~acl=%2f*~data=hdntl~hmac=ccf361d94547c52985dd6306447ac841056cb10f1cb66adbca87c4a04cdd847d/master_3500.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",&Flix
+https://z5ams.akamaized.net/andflixhd/tracks-v1a1/exp=1586072230~acl=%2f*~data=hdntl~hmac=7d4bb3d977bafcedc76d47a1d58efdb63cc1824ef69bdd5fd6390a28f7b8b1f6/mono.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv3.png",TV3
+https://stream-02.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHVbJTtIZjvpvppThVbbuuic)/dm/3/x6qp375/d/live-3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/ntv7.png",NTV7
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHb3d2uyFzuRZmacZnlACI0I)/dm/3/x6qp6ou/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kxm1wihUkjNiINrAqlg
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/8tv.png",8TV
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHS-ZY2rgfbcfKcMT5iAJBJw)/dm/3/x6qud17/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/kdFzSYy1bHxrForBrar
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv9.png",TV9
+https://stream-04.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHTKmXPgWC3P5E1hyXI5fm-M)/dm/3/x6qqja6/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/k1FijVynGNsZ2ZrAGJ0
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/dramasangat.png",Drama Sangat
+https://stream-02.sg1.dailymotion.com/sec(jyCOMoYa2SFWfHvye_Gd0qr6ta2f-rbg9wVtBWU2mIU)/dm/3/x6zvnex/s/live-4.m3u8|Referer=https://www.dailymotion.com/embed/video/x6zvnex
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/okey.png",OKEY
+https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/rtmhdsports.png",RTM Sports HD
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.myj
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/master02.m3u8
+
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-u.png",Channel U 
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8 
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/suria.png",Suria 
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham 
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
+https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/awani.png",Astro Awani 
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
