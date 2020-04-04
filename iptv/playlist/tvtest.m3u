@@ -6,7 +6,17 @@ https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",BBC Earth
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586071458~acl=%2f*~data=hdntl~hmac=d6ab71d2167211aebb15ea67987927254946bfa78e742f92e3b010d77e4dcff0/master_3500.m3u8
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",AXN
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1586071731~acl=%2f*~data=hdntl~hmac=9d6b6cca22a3d9c34dfcd45763d78bea449b31972bf6eb77f8df2c8b251217d3/master_3500.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",Sony PIX
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1586072127~acl=%2f*~data=hdntl~hmac=ccf361d94547c52985dd6306447ac841056cb10f1cb66adbca87c4a04cdd847d/master_3500.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",&Flix
+https://z5ams.akamaized.net/andflixhd/tracks-v1a1/exp=1586072230~acl=%2f*~data=hdntl~hmac=7d4bb3d977bafcedc76d47a1d58efdb63cc1824ef69bdd5fd6390a28f7b8b1f6/mono.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv1.png",Boomerang
+http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tv2.png",TV2
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
