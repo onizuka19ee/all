@@ -51,18 +51,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/channel-newsasia.png",Channel NewsAsia 
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/bbcearth.png",BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586071458~acl=%2f*~data=hdntl~hmac=d6ab71d2167211aebb15ea67987927254946bfa78e742f92e3b010d77e4dcff0/master_3500.m3u8
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/axn.png",AXN
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1586071731~acl=%2f*~data=hdntl~hmac=9d6b6cca22a3d9c34dfcd45763d78bea449b31972bf6eb77f8df2c8b251217d3/master_3500.m3u8
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551",Sony PIX
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1586072127~acl=%2f*~data=hdntl~hmac=ccf361d94547c52985dd6306447ac841056cb10f1cb66adbca87c4a04cdd847d/master_3500.m3u8
-
-#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg/revision/latest?cb=20180624153833",&Flix
-https://z5ams.akamaized.net/andflixhd/tracks-v1a1/exp=1586072230~acl=%2f*~data=hdntl~hmac=7d4bb3d977bafcedc76d47a1d58efdb63cc1824ef69bdd5fd6390a28f7b8b1f6/mono.m3u8
-
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
@@ -74,6 +62,9 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/tlc.png",TLC
 https://streamidvo.multitvsolution.in/live/TLC_HD-a/p4.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png",History
+http://livecdnh2.tvanywhere.ae/hls/historyhd/05.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fd/H2more2history.png/revision/latest/scale-to-width-down/340?cb=20150801195220",History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
