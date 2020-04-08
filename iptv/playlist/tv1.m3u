@@ -63,6 +63,9 @@ http://ok2.se:8000/7ba3F1UBGUPCROJ5Z/21f6F1UDM06jt4k9u/1790
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang 2
+http://srv.tvprodigital.net:25461/alex123/alex123/11534
+
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/animalplanet.png",Animal Planet
 http://ok2.se:8000/aca6F1UGbPbxL6wLa/2886F1UjY3Tvd4H4t/1760
 
