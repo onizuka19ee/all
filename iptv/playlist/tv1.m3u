@@ -28,7 +28,7 @@ https://rtm2hd.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
 https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-5.png",Channel 5
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/channel-8.png",Channel 8 
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8 
@@ -41,6 +41,9 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://freeview.github.io/iptv/logos/vasantham.png",Vasantham 
 https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+#EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/87/Okto.png",Okto
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bes.png",Berita RTM
 https://rtm3hd.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8|Referer=https://myklik.rtm.gov.my
