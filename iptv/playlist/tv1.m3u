@@ -55,7 +55,7 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/st
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png",HGTV
-http://ok2.se:8000/7ba3F1UBGUPCROJ5Z/21f6F1UDM06jt4k9u/335
+http://lotustv.be:80/mikey/mikey1/28464
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://alchetron.com/cdn/hgtv-canada-4707b1d2-ddbd-4ee4-acc6-85131038870-resize-750.png",HGTV Canada
 http://ok2.se:8000/7ba3F1UBGUPCROJ5Z/21f6F1UDM06jt4k9u/42685
