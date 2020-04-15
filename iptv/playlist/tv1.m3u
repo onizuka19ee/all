@@ -61,7 +61,7 @@ http://ux.mytvxweb.me:25461/LJpWrBIXkb/DRur5ybmQY/329865
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bbcearth.png",BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1586930598~acl=%2f*~data=hdntl~hmac=bbbb37e497b0a9563ceb8d34deef26ce99a71515a01f99b7f097a6baf23d16f6/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1587019400~acl=%2f*~data=hdntl~hmac=4d5b39f24686cbd372e601fd88a4e88a14132c09a7690c598cb96b17eb450d77/master_3500.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551",Sony Pix
 https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1587017588~acl=%2f*~data=hdntl~hmac=ad57b90f668627f575bf0feacbb69faf16c74df9eb6f2b0e972e3d35f72bc5e5/master_3500.m3u8
