@@ -68,6 +68,3 @@ https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=158707781
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/axn.png",AXN
 https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1587078047~acl=%2f*~data=hdntl~hmac=955a27a696dc5952d9070de5af6154f5e7b3ef8b95911990123001281fbef39f/master_3500.m3u8
-
-#EXTINF:-1 tvg-group="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/%26flix.jpg/revision/latest?cb=20180624153833",&Flix
-https://z5ams.akamaized.net/andflixhd/tracks-v1a1/exp=1587077891~acl=%2f*~data=hdntl~hmac=591446d5575db23d8c5b571c88880c3478cda90bf76da02098dfbd52f829c0d8/mono.m3u8
