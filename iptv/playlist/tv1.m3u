@@ -64,7 +64,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1587423036~acl=%2f*~data=hdntl~hmac=a00a56208e96bd0aa8ffe20e0e2a3637adc73f1833e5d88f632c1ed26848d742/master_3500.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551",Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1587423103~acl=%2f*~data=hdntl~hmac=16248389a055ee1bfa02f0ec843685c37fff0786f24e45d44caec21cc2a14586/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1587514954~acl=%2f*~data=hdntl~hmac=c9d5b855f89bd258943437edbcebb7ade28bbc37c4f520865d5f6defb5bf83b6/master_3500.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/axn.png",AXN
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1587423149~acl=%2f*~data=hdntl~hmac=ece96a54efbc282c100b48315020c4b812043b88a429e56e3ebb408f87ed7a5b/master_3500.m3u8|Referer=http://mhdtvworld.live/stream/axn-hd/
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1587515003~acl=%2f*~data=hdntl~hmac=c4920ae6f1659bb9830f567565b62ebecf798cf917caa8a0eb72e6fef5fd1526/master_3500.m3u8
