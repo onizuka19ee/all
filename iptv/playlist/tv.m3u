@@ -58,7 +58,7 @@ http://astro2.rastream.com/era
 http://mediaprima.rastream.com/mediaprima-hotfm
 
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://assets.koolfm.com.my/2020/01/logo_koolfm_600x600.png" radio="true",Kool FM
-http://laylio.radioactive.sg/mediaprima-koolfm
+http://mediaprima.rastream.com/mediaprima-koolfm
 
 #EXTINF:-1 tvg-group="Radio" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/B9BfFNENkj.jpg" radio="true",Hitz FM
 http://astro1.rastream.com/hitz
