@@ -61,10 +61,10 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 http://csclub.uwaterloo.ca/~aszczeci/proxy/miniProxy.php/http://185.246.210.56:2200/R-EX/KIDS_NICK_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=RED_cpYvHsAZwuKK7jdoWxF1aQ==,1588596294.6429270333
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bbcearth.png",BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1588635166~acl=%2f*~data=hdntl~hmac=b12c1c47d41c69e9dd4560ef4cd99f47e065b3dfed7f46f35307b9ae1ad18b3c/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1588716709~acl=%2f*~data=hdntl~hmac=359391735c418837f35ccfadca96351c4a20f18972f2d63f67225b9859881b17/master_3500.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551",Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1588635275~acl=%2f*~data=hdntl~hmac=ba20704929a4a75726b6fe168115d460e4504b4ede5c0fd1ddf096659a85f0f5/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1588716806~acl=%2f*~data=hdntl~hmac=21cf52c90e7801b00146d2cfd0387db0b30e41b70373c7756131e58f7bffecdc/master_3500.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/axn.png",AXN
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1588635353~acl=%2f*~data=hdntl~hmac=18dc2ebe5592c61e53630364491f9ff5d65a2582be86c86b0bdc6d8cfacc8c7a/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1588716864~acl=%2f*~data=hdntl~hmac=2949d97ead676552e1058995d0babe880c8755610ee1c433029029eac342a34c/master_3500.m3u8
