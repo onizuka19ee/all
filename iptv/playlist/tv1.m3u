@@ -57,14 +57,11 @@ http://ok2.se:8000/7ba3F1UBGUPCROJ5Z/21f6F1UDM06jt4k9u/42685
 #EXTINF:-1 tvg-group="MY/SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/05.m3u8
 
-#EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/nickelodeon.png",Nickelodeon
-http://csclub.uwaterloo.ca/~aszczeci/proxy/miniProxy.php/http://185.246.210.56:2200/R-EX/KIDS_NICK_PLUS_HD-in/tracks-v1a1/mono.m3u8?token=RED_cpYvHsAZwuKK7jdoWxF1aQ==,1588596294.6429270333
-
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/bbcearth.png",BBC Earth
-https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1588716709~acl=%2f*~data=hdntl~hmac=359391735c418837f35ccfadca96351c4a20f18972f2d63f67225b9859881b17/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011907/SonyBBCEarthHD/hdntl=exp=1588802525~acl=%2f*~data=hdntl~hmac=f981dde890409b5edede78e9082ca74d5abb442db721800c6cdfd917505be87b/master_3500.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sony_Pix_2013.svg/revision/latest/scale-to-width-down/340?cb=20200122045551",Sony Pix
-https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1588716806~acl=%2f*~data=hdntl~hmac=21cf52c90e7801b00146d2cfd0387db0b30e41b70373c7756131e58f7bffecdc/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1588802620~acl=%2f*~data=hdntl~hmac=875a41145da60331611b4c073894e1c74b22b6cd662f20add672d3efe79d9cef/master_3500.m3u8
 
 #EXTINF:-1 tvg-group="News" tvg-logo="https://freeview.github.io/iptv/logos/axn.png",AXN
-https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1588716864~acl=%2f*~data=hdntl~hmac=2949d97ead676552e1058995d0babe880c8755610ee1c433029029eac342a34c/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2011747/AXNHD/hdntl=exp=1588802681~acl=%2f*~data=hdntl~hmac=26846d47c1af6f057d63385fa8fd36b2efb0a2720d605bda56ecefa0751790a5/master_3500.m3u8
